@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c93c33b-494a-4397-9547-657a1ccf328c" name="Changes" comment="Uploaded Kata">
-      <change afterPath="$PROJECT_DIR$/kyu_6/who_likes_it.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kyu_6/array_diff.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +140,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706752179297</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706752657858</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706752657858</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706753121380</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706753121380</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
