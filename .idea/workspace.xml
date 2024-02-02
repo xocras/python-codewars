@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c93c33b-494a-4397-9547-657a1ccf328c" name="Changes" comment="Uploaded Kata">
+      <change afterPath="$PROJECT_DIR$/kyu_6/find_the_parity_outlier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.evaluate_mathematical_expression.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.snail_sort.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.evaluate_mathematical_expression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snail_sort.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-codewars" />
@@ -173,7 +174,119 @@
       <option name="project" value="LOCAL" />
       <updated>1706755558328</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706843792721</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706843792721</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706912458452</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706912458453</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706912527922</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706912527922</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706912602451</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706912602451</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706912716815</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1706912716815</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706912724872</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1706912724872</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706912752426</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706912752426</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706912879183</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1706912879183</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706912955526</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1706912955526</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706913027073</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1706913027073</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706913082897</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1706913082897</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706913091363</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1706913091363</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706913151843</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1706913151843</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Uploaded Kata">
+      <option name="closed" value="true" />
+      <created>1706913201291</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1706913201291</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
