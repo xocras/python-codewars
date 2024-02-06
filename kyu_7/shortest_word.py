@@ -4,3 +4,6 @@
 
 def find_short(s):
     return len(sorted(s.split(), key=len)[0])
+
+# def find_short(s):
+#     return min(len(x) for x in s.split())
