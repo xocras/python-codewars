@@ -13,5 +13,5 @@
 #
 #     return len(version1) >= len(version2)
 
-def compare_versions(version1,version2):
+def compare_versions(version1, version2):
     return [int(v) for v in version1.split('.')] >= [int(v) for v in version2.split('.')]
