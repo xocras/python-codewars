@@ -44,6 +44,4 @@ If you have a different solution or an improvement to an existing one, feel free
 ## Acknowledgments
 
 Thank you to Codewars for providing an excellent platform for honing coding skills and to the community for creating diverse and challenging exercises.
-  
-Happy coding!
 
