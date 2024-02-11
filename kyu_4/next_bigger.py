@@ -23,8 +23,8 @@ def next_bigger(n):
             digits[i], digits[pivot_index] = digits[pivot_index], digits[i]
             break
 
-    # Reverse the digits to the right of the pivot index
-    digits[pivot_index + 1:] = reversed(digits[pivot_index + 1:])
+    # Sort the digits to the right of the pivot index in ascending order
+    digits[pivot_index + 1:] = sorted(digits[pivot_index + 1:])
 
     # Convert the list of digits back to an integer and return
     return int(''.join(digits))
