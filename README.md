@@ -1,5 +1,7 @@
 # Codewars Exercises
 
+![Codewars Badge](https://www.codewars.com/users/xocras/badges/small)
+
 This repository serves as a collection of coding exercises and challenges completed on [Codewars](https://www.codewars.com/). Codewars is a platform where developers can improve their coding skills by solving various programming challenges, ranging in difficulty from beginner to advanced.
 
 ## Table of Contents
