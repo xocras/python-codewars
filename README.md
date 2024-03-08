@@ -27,7 +27,7 @@ Feel free to browse the folders to explore the solutions for each exercise.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/codewars-exercises.git
+git clone https://github.com/xocras/python-codewars
 ```
 
 2. Navigate to the specific kyu level folder of interest.
